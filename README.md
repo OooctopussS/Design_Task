@@ -1,5 +1,5 @@
 <h1>Задание 1</h1>
-<p>Поля таблица:</p>
+<p>Поля таблицы:</p>
 
 ![design_1](https://user-images.githubusercontent.com/35968157/229619185-cf566b19-12fa-4078-b612-6d30d8baac72.png)
 ![design_2](https://user-images.githubusercontent.com/35968157/229619202-091c58ef-df79-42e8-b69a-be759bbb4204.png)
